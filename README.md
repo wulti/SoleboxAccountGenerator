@@ -4,13 +4,11 @@
 
 Here is a [demo](https://i.imgur.com/eEcF5R0.mp4)
 
-## Update March 13th 2020
+## Update March 15th 2020
 
-The gen is currently not working because of Solebox changing their security. Working on an update! Stay tuned to my social media (ideally [Twitter](https://twitter.com/rtunazzz)) if you want to know when an update is out.
+Looks like the gen is now working once again just fine! If you encounter any issues, read through this file and if you don't find an anwser, feel free to message me on Discord (rtuna#4321). Follow me on [Twitter](https://twitter.com/rtunazzz)) if you want to know whenever an update is out!
 
 **Use of proxies is NECESSARY.**
-
-DM me on Discord rtuna#4321 if you need any help setting this up. **BEFORE DMing ME, READ THROUGH THIS FILE**
 
 
 ## Before running
